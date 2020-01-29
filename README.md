@@ -67,3 +67,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # react_rankingboard : This sample board displays the movie information based on API. I used the React and AJAX skills for this project. Thank you
+# react_socialmedia_board : final project like facebook style board disply
